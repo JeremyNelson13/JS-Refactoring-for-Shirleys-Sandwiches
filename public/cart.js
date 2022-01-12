@@ -87,9 +87,7 @@ const cart = {
     // Runs when the user clicks 'Duplicate' on a sandwich card
     async duplicateSandwich(sandwich) {
         let newSandwich = {
-            name: sandwich.name,
-            bread: sandwich.bread,
-            ingredients: sandwich.ingredients
+            ...sandwich
         }
 
         // Save the sandwich on the server

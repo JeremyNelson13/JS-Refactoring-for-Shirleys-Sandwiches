@@ -3,20 +3,7 @@
     {
       "id": 1,
       "name": "Morin's Sandwich",
-      "bread": "Gluten Free",
-      "ingredients": [
-        "Cheddar Cheese",
-        "Mayo",
-        "Lettuce",
-        "Tomatoes",
-        "Ham",
-        "Bacon"
-      ]
-    },
-    {
-      "id": 2,
-      "name": "Morin's Sandwich",
-      "bread": "Gluten Free",
+      "bread": "Wheat",
       "ingredients": [
         "Cheddar Cheese",
         "Mayo",
